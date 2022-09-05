@@ -1,0 +1,111 @@
+{
+    "user": {
+        "name": "Лёха",
+        "uid": "252525229",
+        "phone": "+996500000000",
+        "api_token": "3821938128931237128"
+
+    },
+    "newsItems": [{
+            "title": "",
+            "content": "",
+            "image_url": ""
+        },
+        {
+            "title": "",
+            "content": "",
+            "image_url": ""
+        },
+        {
+            "title": "",
+            "content": "",
+            "image_url": ""
+        },
+        {
+            "title": "",
+            "content": "",
+            "image_url": ""
+        },
+        {
+            "title": "",
+            "content": "",
+            "image_url": ""
+        },
+        {
+            "title": "",
+            "content": "",
+            "image_url": ""
+        }
+    ],
+    "menucategory": [{
+        "id": 1,
+        "name": "Первые блюда",
+        "image_url": ""
+    }, {
+        "id": 2,
+        "name": "Барное меню",
+        "image_url": ""
+    }, {
+        "id": 3,
+        "name": "Салаты",
+        "image_url": ""
+    }, {
+        "id": 3,
+        "name": "Десерты",
+        "image_url": ""
+    }],
+    "menuItems": [{
+            "id": 1,
+            "title": "борщь",
+            "image_url": "",
+            "decription": "",
+            "category_menu_id": 1,
+            "price": 300,
+            "valut": "kgs",
+            "avilable": true
+        },
+        {
+            "id": 2,
+            "title": "суп с фрикадельками",
+            "image_url": "",
+            "decription": "",
+            "category_menu_id": 1,
+            "price": 300,
+            "valut": "kgs",
+            "avilable": true
+        },
+        {
+            "id": 3,
+            "title": "суп из семи залуп",
+            "image_url": "",
+            "decription": "",
+            "category_menu_id": 1,
+            "price": 300,
+            "valut": "kgs",
+            "avilable": true
+        },
+        {
+            "id": 4,
+            "title": "окрошка",
+            "image_url": "",
+            "decription": "",
+            "category_menu_id": 1,
+            "price": 300,
+            "valut": "kgs",
+            "avilable": true
+        },
+        {
+            "id": "шорпо",
+            "title": "",
+            "image_url": "",
+            "decription": "",
+            "category_menu_id": 1,
+            "price": 300,
+            "valut": "kgs",
+            "avilable": true
+        }
+    ],
+    "bonus": {
+        "value": 150
+    }
+}
