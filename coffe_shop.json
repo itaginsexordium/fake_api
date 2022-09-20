@@ -4,7 +4,6 @@
         "uid": "252525229",
         "phone": "+996500000000",
         "api_token": "3821938128931237128"
-
     },
     "newsItems": [{
             "title": "",
@@ -39,20 +38,16 @@
     ],
     "menucategory": [{
         "id": 1,
-        "name": "Первые блюда",
-        "image_url": ""
+        "name": "Первые блюда"
     }, {
         "id": 2,
-        "name": "Барное меню",
-        "image_url": ""
+        "name": "Барное меню"
     }, {
         "id": 3,
-        "name": "Салаты",
-        "image_url": ""
+        "name": "Салаты"
     }, {
-        "id": 3,
-        "name": "Десерты",
-        "image_url": ""
+        "id": 4,
+        "name": "Десерты"
     }],
     "menuItems": [{
             "id": 1,
@@ -107,5 +102,22 @@
     ],
     "bonus": {
         "value": 150
-    }
+    },
+    "notifications": [{
+        "title": "zagolovok",
+        "decription": "text",
+        "id": 1
+    }, {
+        "title": "zagolovok",
+        "decription": "text",
+        "id": 2
+    }, {
+        "title": "zagolovok",
+        "decription": "text",
+        "id": 3
+    }, {
+        "title": "zagolovok",
+        "decription": "text",
+        "id": 4
+    }]
 }
